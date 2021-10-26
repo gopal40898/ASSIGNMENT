@@ -1,0 +1,32 @@
+h1{
+    color: crimson;
+}
+h3{
+    color: crimson;
+}
+ol
+{
+  color: brown;
+  
+}
+a
+{
+  background-color: yellow;
+}
+b
+{
+    text-decoration-line: line-through;
+}
+c
+{
+    text-decoration: underline;
+}
+ul
+{
+color: brown;
+letter-spacing: 5px;
+}
+p
+{
+color: brown;
+}
